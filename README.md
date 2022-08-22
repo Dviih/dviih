@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [NodeJS](https://github.com/nodejs/node), [Express.JS](https://github.com/expressjs/express)
+- 🌱 I’m currently learning:
+  + [Node.js](https://nodejs.org/en/)
+  + [Go](https://go.dev/)
+  + C/C++
+  + [uWS](https://github.com/uNetworking/uWebSockets)
+  + [Fiber](https://github.com/gofiber/fiber)
 - 📫 How to reach me: Discord (Dviih#9904)
 
 ![Dviih's GitHub stats](https://github-readme-stats.vercel.app/api?username=dviih&show_icons=true&theme=github_dark&hide_border=true)<br>
