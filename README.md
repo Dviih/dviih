@@ -9,6 +9,8 @@ As of my past experience with TypeScript and the Node.js world, I am very famili
 
 If you have some time to spare feel free to check my projects under my GitHub, and even contribute if possible!
 
+Most of my projects are licensed through AGPL, for any need regarding license feel free to contact me.
+
 ---
 ## Contact me
 - Discord at Dviih
